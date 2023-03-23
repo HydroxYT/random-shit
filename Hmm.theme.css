@@ -14,9 +14,9 @@
 --background-image-blur: 0px;
 --background-image-size: cover;
 --background-image-position: center;
---popout-modal-image: url('https://i.imgur.com/SxHtx2o.jpg');
+--popout-modal-image: url("https://i.imgur.com/sXb1qGH.jpg");
 --popout-modal-blur: 0px;
---popout-modal-size: cover;
+--popout-modal-size: right;
 --popout-modal-position: center;
 --home-button-image: url('https://i.imgur.com/am2l0YD.jpg');
 --home-button-size: cover;
