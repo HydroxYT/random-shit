@@ -8,6 +8,7 @@
 * @website https://betterdiscord.app/theme/Frosted%20Glass
 */
 @import url("https://discordstyles.github.io/FrostedGlass/dist/FrostedGlass.css");
+@import url("https://gibbu.github.io/BetterDiscord-Themes/addons/windows-titlebar.css");
 :root {
 --background-image: url('https://i.imgur.com/6A53B5J.jpg');
 --background-image-blur: 0px;
@@ -35,6 +36,5 @@
 --scrollbar-colour: #ffffff0d;
 --link-colour: #00b0f4;
 --show-gift-gif-buttons: no-repeat;
---font: 'Whitney';
 --update-notice-1: none;
 }
