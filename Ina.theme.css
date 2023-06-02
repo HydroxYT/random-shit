@@ -10,7 +10,7 @@
 @import url("https://discordstyles.github.io/FrostedGlass/dist/FrostedGlass.css");
 @import url("https://gibbu.github.io/BetterDiscord-Themes/addons/windows-titlebar.css");
 :root {
---background-image: url('https://cdn.discordapp.com/attachments/1062350821414674483/1114258332778254437/702C91D0-2BD4-4E26-8DBE-B9414ECF6AAC.jpg');
+--background-image: url('https://cdn.discordapp.com/attachments/1062350821414674483/1114259916195106986/0b0f31d8ab53705071ed7dbca616ad8a_4809252226105824079.png');
 --background-image-blur: 0px;
 --background-image-size: cover;
 --background-image-position: center;
@@ -18,7 +18,7 @@
 --popout-modal-blur: 0px;
 --popout-modal-size: cover;
 --popout-modal-position: center;
---home-button-image: url('https://cdn.discordapp.com/attachments/1062350821414674483/1114258365460271216/A7AF7FE2-1622-442C-BA53-81E7ACD1842F.png');
+--home-button-image: url('https://cdn.discordapp.com/attachments/1062350821414674483/1114259916782317590/682440b0575ff4a50925acc92b758803_6360844868621359561.png');
 --home-button-size: cover;
 --home-button-position: center;
 --serverlist-brightness: 0.83;
