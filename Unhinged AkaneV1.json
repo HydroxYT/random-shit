@@ -9,7 +9,7 @@
    ],
    "semanticColors":{
       "HEADER_PRIMARY":[
-         "#E0E0E0"
+         "#4E5058"
       ],
       "HEADER_SECONDARY":[
          "#4E5058"
@@ -245,7 +245,10 @@
    "background":{
       "blur":0.3,
       "url":"https://i.imgur.com/JLESi7E.png",
-      "alpha":0.8
+      "alpha":0.8,
+      "position": {
+         "x": -300  // Adjust this value to move the image left or right
+      }
     },
    "plus":{
       "mentionLineColor":"#f3bae540"
