@@ -245,8 +245,8 @@
    "background":{
       "blur":0.3,
       "url":"https://i.imgur.com/JLESi7E.png",
-      "alpha":0.8,
-   },
+      "alpha":0.8
+    },
    "plus":{
       "mentionLineColor":"#f3bae540"
    }
