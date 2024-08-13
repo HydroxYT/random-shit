@@ -9,7 +9,7 @@
    ],
    "semanticColors":{
       "HEADER_PRIMARY":[
-         "#4E5058"
+         "#E0E0E0"
       ],
       "HEADER_SECONDARY":[
          "#4E5058"
@@ -243,7 +243,7 @@
       "YELLOW_900":"#f9f9f4"
    },
    "background":{
-      "blur":0.3,
+      "blur":1,
       "url":"https://i.imgur.com/vLKQDUp.png",
       "alpha":0.8
     },
