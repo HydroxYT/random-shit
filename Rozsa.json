@@ -9,25 +9,25 @@
    ],
    "semanticColors":{
       "HEADER_PRIMARY":[
-         "#FFFFFF"
+         "#A9A9A9"
       ],
       "HEADER_SECONDARY":[
-         "#D3D3D3"
+         "#696969"
       ],
       "TEXT_NORMAL":[
          "#ebe3f7"
       ],
       "TEXT_MUTED":[
-         "#A9A9A9"
+         "#4E4058"
       ],
       "INTERACTIVE_NORMAL":[
-         "#D3D3D3"
+         "#A9A9A9"
       ],
       "INTERACTIVE_HOVER":[
          "#5070a7"
       ],
       "INTERACTIVE_ACTIVE":[
-         "#F3F3F3"
+         "#696969"
       ],
       "INTERACTIVE_MUTED":[
          "#5b5978"
@@ -45,7 +45,7 @@
          "#171a30"
       ],
       "BACKGROUND_ACCENT":[
-         "#A9A9A9"
+         "#696969"
       ],
       "BACKGROUND_FLOATING":[
          "#0f1725"
@@ -93,13 +93,13 @@
          "#8aa6db"
       ],
       "CHANNEL_TEXT_AREA_PLACEHOLDER":[
-         "#D3D3D3"
+         "#A9A9A9"
       ],
       "CHANNELS_DEFAULT":[
          "#C0C0C0"
       ],
       "TEXT_LINK":[
-         "#696969"
+         "#4E4058"
       ],
       "TEXT_DANGER":[
          "#B75057"
@@ -117,7 +117,7 @@
          "#2c384a"
       ],
       "REDESIGN_CHANNEL_CATAGORY_NAME_TEXT":[
-         "#bf7aa7"
+         "#4E4058"
       ],
       "REDESIGN_CHANNEL_NAME_TEXT":[
          "#ebe3f7"
@@ -129,13 +129,13 @@
          "#211f38"
       ],
       "REDESIGN_BUTTON_SECONDARY_BACKGROUND":[
-         "#D3D3D3"
+         "#A9A9A9"
       ],
       "REDESIGN_CHAT_INPUT_BACKGROUND":[
          "#0c121c"
       ],
       "REDESIGN_BUTTON_SECONDARY_BORDER":[
-         "#A9A9A9"
+         "#696969"
       ],
       "BORDER_FAINT":[
          "#40446b"
@@ -145,30 +145,30 @@
       ]
    },
    "rawColors":{
-      "PRIMARY_500":"#D3D3D3",
+      "PRIMARY_500":"#A9A9A9",
       "PRIMARY_100":"#90b4eb",
       "PRIMARY_200":"#A9A9A9",
       "PRIMARY_230":"#A9A9A9",
-      "PRIMARY_300":"#D3D3D3",
+      "PRIMARY_300":"#A9A9A9",
       "PRIMARY_360":"#497497",
-      "PRIMARY_400":"#D3D3D3",
+      "PRIMARY_400":"#A9A9A9",
       "PRIMARY_600":"#131727",
       "PRIMARY_630":"#171a2b",
       "PRIMARY_645":"#304254",
       "PRIMARY_660":"#6764a6",
       "PRIMARY_700":"#252f42",
       "PRIMARY_800":"#7488ad",
-      "BRAND_260":"#D3D3D3",
-      "BRAND_360":"#A9A9A9",
-      "BRAND_500":"#D3D3D3",
-      "BRAND_560":"#D3D3D3",
+      "BRAND_260":"#A9A9A9",
+      "BRAND_360":"#696969",
+      "BRAND_500":"#A9A9A9",
+      "BRAND_560":"#A9A9A9",
       "GREEN_600":"#648db8",
       "RED_400":"#5d63b2",
       "WHITE_500":"#e5eff7",
-      "PLUM_1":"#D3D3D3",
-      "PLUM_10":"#9b8eb0",
+      "PLUM_1":"#A9A9A9",
+      "PLUM_10":"#4E4058",
       "PLUM_11":"#282b47",
-      "PLUM_13":"#D3D3D3",
+      "PLUM_13":"#A9A9A9",
       "PLUM_15":"#282b47",
       "PLUM_16":"#27364d",
       "PLUM_17":"#25293e",
@@ -181,33 +181,33 @@
       "PLUM_25":"#92d1c3",
       "PLUM_3":"#6989c6",
       "PLUM_4":"#31748f",
-      "PLUM_6":"#ffe4f9",
-      "PLUM_9":"#D3D3D3",
-      "GREEN_100":"#A9A9A9",
-      "GREEN_130":"#A9A9A9",
-      "GREEN_160":"#A9A9A9",
-      "GREEN_200":"#A9A9A9",
-      "GREEN_230":"#A9A9A9",
-      "GREEN_260":"#A9A9A9",
-      "GREEN_300":"#A9A9A9",
-      "GREEN_330":"#A9A9A9",
-      "GREEN_345":"#A9A9A9",
-      "GREEN_360":"#A9A9A9",
-      "GREEN_400":"#A9A9A9",
-      "GREEN_430":"#A9A9A9",
-      "GREEN_460":"#A9A9A9",
-      "GREEN_500":"#A9A9A9",
-      "GREEN_530":"#A9A9A9",
-      "GREEN_560":"#A9A9A9",
-      "GREEN_630":"#A9A9A9",
-      "GREEN_660":"#A9A9A9",
-      "GREEN_700":"#A9A9A9",
-      "GREEN_730":"#A9A9A9",
-      "GREEN_760":"#A9A9A9",
-      "GREEN_800":"#A9A9A9",
-      "GREEN_830":"#A9A9A9",
-      "GREEN_860":"#A9A9A9",
-      "GREEN_900":"#A9A9A9",
+      "PLUM_6":"#4E4058",
+      "PLUM_9":"#A9A9A9",
+      "GREEN_100":"#696969",
+      "GREEN_130":"#696969",
+      "GREEN_160":"#696969",
+      "GREEN_200":"#696969",
+      "GREEN_230":"#696969",
+      "GREEN_260":"#696969",
+      "GREEN_300":"#696969",
+      "GREEN_330":"#696969",
+      "GREEN_345":"#696969",
+      "GREEN_360":"#696969",
+      "GREEN_400":"#696969",
+      "GREEN_430":"#696969",
+      "GREEN_460":"#696969",
+      "GREEN_500":"#696969",
+      "GREEN_530":"#696969",
+      "GREEN_560":"#696969",
+      "GREEN_630":"#696969",
+      "GREEN_660":"#696969",
+      "GREEN_700":"#696969",
+      "GREEN_730":"#696969",
+      "GREEN_760":"#696969",
+      "GREEN_800":"#696969",
+      "GREEN_830":"#696969",
+      "GREEN_860":"#696969",
+      "GREEN_900":"#696969",
       "GUILD_BOOSTING_PINK":"#709ce1",
       "GUILD_BOOSTING_PURPLE":"#c4a7e7",
       "GUILD_BOOSTING_PURPLE_FOR_GRADIENTS":"#c4a7e7",
